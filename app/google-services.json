@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176347306996",
+    "project_id": "projeto-firebase-2a1b3",
+    "storage_bucket": "projeto-firebase-2a1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176347306996:android:d74a93b7175487838337a1",
+        "android_client_info": {
+          "package_name": "com.hedipo.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176347306996-h7pqlgabljii709560hfn9n534jectja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9QqKppFEjG_kjD2hZTsPcPpKArFWf5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176347306996-h7pqlgabljii709560hfn9n534jectja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
