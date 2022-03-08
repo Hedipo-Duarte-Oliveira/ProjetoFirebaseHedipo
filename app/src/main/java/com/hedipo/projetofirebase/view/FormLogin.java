@@ -23,7 +23,7 @@ import com.hedipo.projetofirebase.R;
 public class FormLogin extends AppCompatActivity {
 
 
-    private EditText edit_email,edit_senha; // criando os objetos
+    private EditText edit_email,edit_senha;
     private Button Btn_entrar;
     private Button bt_cadastrar;
     private ProgressBar progressBar;

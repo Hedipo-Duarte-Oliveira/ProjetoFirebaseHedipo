@@ -155,7 +155,6 @@ public class FormCadastro extends AppCompatActivity {
                     startActivity(intent);
                     finish();
 
-// beleza tu sabe fazer o campo esuece senha? mas ae tem enviar o link para email, via firebase, eu vou tentar fazer e muito trabalho pra tu
                 }
             })
               .addOnFailureListener(new OnFailureListener() {
